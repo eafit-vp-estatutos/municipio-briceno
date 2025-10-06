@@ -1,0 +1,23 @@
+---
+title: "Uso del suelo de Briceño"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    smooth-scroll: true
+execute:
+  echo: false
+  warning: false
+  message: false
+params:
+  cod_dane: "05107"
+  nombre: "Briceño"
+lang: es
+---
+
+
+## Conflicto de uso (RURAL)
+
+![](img_r1/conf_porcentajes.png)
